@@ -1,2 +1,3 @@
 sportstore
-Частичнаяверстка по Photoshop проекту от HTML-Academy.
+Частичная верстка по Photoshop проекту от HTML-Academy.
+Изучение GRID
