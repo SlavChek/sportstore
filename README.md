@@ -1,3 +1,3 @@
-sportstore
-Частичная верстка по Photoshop проекту от HTML-Academy.
-Изучение GRID
+ # **sportstore**
+Частичная верстка макета по `Photoshop` по проекту из рассылки от HTML-Academy.
+Изучение :man_student: `GRID` :bricks:
